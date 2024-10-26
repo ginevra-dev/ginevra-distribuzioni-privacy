@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.matbuompy.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["43:C3:E2:89:9A:0F:F1:B2:32:3A:FF:60:70:8B:83:22:7F:17:41:1A:34:8C:D7:0D:87:DE:47:24:C8:3C:1F:C3"]
+    }
+  }]
